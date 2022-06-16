@@ -52,7 +52,7 @@
 </head>
 <body> 
     <div class="fundo">
-        <img src= "black.jpg"black.jpg" width="1280" height="580">
+        <img src= "black.jpg" width="1280" height="580">
         <h1></h1>
         <div class="calculadora">Gustavo Batista Rocha
             <h1>Calculadora</h1>
